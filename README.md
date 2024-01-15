@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Roffi-Kaizo
+- 🌱 I’m currently learning Javascript and want to start learning C/C++
